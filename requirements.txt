@@ -1,0 +1,7 @@
+streamlit
+torch==2.0.1
+torchvision==0.15.2
+numpy<2.0
+Pillow
+gdown
+opencv-python
